@@ -16,7 +16,8 @@ Gist:
 - ⚡ Fun fact: *"In Robots I Trust!"* 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark)](https://github.com/eshanmherath/github-profile-trophy)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanmherath&show_icons=true&theme=dracula&count_private=true&langs_count=7&hide=rich%20text%20format,roff)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eshanmherath&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs,issues)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark)](https://github.com/eshanmherath/github-profile-trophy)
 
