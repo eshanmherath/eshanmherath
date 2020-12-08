@@ -14,3 +14,6 @@ Gist:
 - 💬 Ask me AI questions at [Autonomous World](https://www.youtube.com/channel/UC94SsP1oGS_qhzvqaUguSeQ)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshan-mewantha-herath/)
 - ⚡ Fun fact: *"In Robots I Trust!"* 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark)](https://github.com/eshanmherath/github-profile-trophy)
