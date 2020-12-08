@@ -4,7 +4,7 @@
 **eshanmherath/eshanmherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Eshan Mewantha Herath. I am an Artificial Intelligence Researcher who is currently focusing on Autonomous Vehicle Design and Psychological aspects of potential General Artificial Agents. Currently I am contributing as Chief Scientist to a USA based Artificial Intelligence Startup. My professional journey was interesting where I went through many, yet related, deciplines of Mathematics, Electronics, Telecommunication, Software Engineering, Machine Learning and Currently AV Design and Cognitive Robotics.
+My name is Mewantha. I am an Artificial Intelligence Researcher who is currently focusing on Autonomous Vehicle Design and Psychological aspects of potential General Artificial Agents. Currently I am contributing as Chief Scientist to a USA based Artificial Intelligence Startup. My professional journey was interesting where I went through many, yet related, deciplines of Mathematics, Electronics, Telecommunication, Software Engineering, Machine Learning and Currently AV Design and Cognitive Robotics.
 Thank you for your interest!
 
 Gist:
