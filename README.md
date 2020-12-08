@@ -17,5 +17,5 @@ Gist:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark)](https://github.com/eshanmherath/github-profile-trophy)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eshanmherath&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eshanmherath&show_icons=true&theme=dracula&count_private=true)
 
