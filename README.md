@@ -11,8 +11,8 @@ Gist:
 
 - 🚘 Self-Driving Car Engineering
 - 🤖 Cognitive Robotics & Benevolnet AI
-- 💬 Ask me AI questions at [Autonomous World](https://www.youtube.com/channel/UC94SsP1oGS_qhzvqaUguSeQ)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshan-mewantha-herath/)
+- 💬 Ask me AI questions at [Autonomous World](https://www.youtube.com/channel/UC94SsP1oGS_qhzvqaUguSeQ){:target="_blank"}
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshan-mewantha-herath/){:target="_blank"}
 - ⚡ Fun fact: *"In Robots I Trust!"* 
 
 ***
