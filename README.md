@@ -17,7 +17,7 @@ Gist:
 
 ***
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanmherath&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_langs_below=10&langs_count=5&hide=rich%20text%20format,roff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eshanmherath&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_langs_below=10&langs_count=8&hide=rich%20text%20format,roff)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eshanmherath&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=prs,contribs,issues)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark&count_private=true&include_all_commits=true)](https://github.com/eshanmherath/github-profile-trophy)
 
