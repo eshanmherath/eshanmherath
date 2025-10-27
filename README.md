@@ -17,6 +17,4 @@ Gist:
 
 ***
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eshanmherath&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=prs,contribs,issues)
-[![trophy](https://github-profile-trophy.vercel.app/?username=eshanmherath&theme=onedark&count_private=true&include_all_commits=true)](https://github.com/eshanmherath/github-profile-trophy)
 
