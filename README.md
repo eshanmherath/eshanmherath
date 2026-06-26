@@ -1,10 +1,8 @@
-### Hello there 👋
+### Hi, I'm Eshan 👋
 
 <!--
 **eshanmherath/eshanmherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-# Hi, I'm Eshan.
 
 I'm the Founder of ThinkHash.
 
