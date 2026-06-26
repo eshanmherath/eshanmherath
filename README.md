@@ -20,9 +20,6 @@ Outside of building products, I share how complex software systems are designed,
 
 ---
 
-Website:
-https://eshanmherath.com
-
 ThinkHash:
 https://thinkhash.io
 
