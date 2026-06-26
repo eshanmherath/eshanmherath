@@ -4,18 +4,29 @@
 **eshanmherath/eshanmherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Mewantha. 
-Founder / Ai Consultant  
-Designing AI-native operating systems for life and enterprises  
-Structure beats motivation. Systems beat willpower.  
-Thank you for your interest!
+# Hi, I'm Eshan.
 
-Gist:
+I'm the Founder of ThinkHash.
 
-- 🤖 Cognitive AI & Benevolnet AI
-- 💬 Read my thoughts at [www.eshanmherath.com](https://www.eshanmherath.com)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eshanmherath/)
-- ⚡ Fun fact: *"What got you here won't get you there!"* 
+I design enterprise software systems and build AI-powered products for regulated industries.
+
+My interests include:
+
+- Software Architecture
+- AI Engineering
+- Distributed Systems
+- Enterprise Software
+- System Design
+
+Outside of building products, I share how complex software systems are designed, scaled and evolved through articles and videos.
+
+---
+
+Website:
+https://eshanmherath.com
+
+ThinkHash:
+https://thinkhash.io
 
 ***
 
